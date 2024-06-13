@@ -1,0 +1,10 @@
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+OPENAI_API_KEY
+OPENAI_API_KEY_PRODUCTION
+OPENAI_API_KEY_DEVELOPMENT
+OPENAI_API_KEY_TEST
+OPENAI_API_KEY_PRODUCTION
